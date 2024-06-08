@@ -1,6 +1,6 @@
 # Weather Application
 
-This is a simple weather application built with React that allows users to search for weather information by city name and view the current weather conditions. It also provides weather information for the user's current location using the browser's geolocation API.
+This is a simple weather application built with React that allows users to search for weather information by city name and view the current weather conditions. It also provides weather information for the user's current location using the browser's geolocation API.You can also chnge the light and dark mode.
 
 ## Approach and Technologies Used
 
